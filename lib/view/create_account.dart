@@ -1,4 +1,3 @@
-
 import 'package:fire/view/home.dart';
 import 'package:fire/view_model/function.dart';
 
@@ -65,7 +64,7 @@ class _CreateAccountState extends State<CreateAccount> {
                   ),
                 );
               },
-              child: const Text('Create Account'),
+              child: const Text('Create New Account'),
             ),
           ],
         ),
